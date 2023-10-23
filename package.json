@@ -22,6 +22,7 @@
   "bugs": "https://github.com/pa11y/pa11y-webservice-client-node/issues",
   "license": "GPL-3.0",
   "dependencies": {
+    "pa11y-webservice": "file:../pa11y-webservice",
     "request": "~2.88.2"
   },
   "devDependencies": {
